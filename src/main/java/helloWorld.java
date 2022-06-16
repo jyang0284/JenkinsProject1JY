@@ -9,6 +9,7 @@ public class helloWorld {
         System.out.println("Enter your name");
         String user = sc.nextLine(); //Reads users input
         System.out.println("Nice to meet you " + user);
+        //Hi this is to test if this change will update in Jenkins
 
     }
 }
