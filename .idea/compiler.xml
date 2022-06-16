@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JenkinsProjectJY" />
+        <module name="JenkinsProject1JY" />
       </profile>
     </annotationProcessing>
   </component>
