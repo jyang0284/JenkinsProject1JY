@@ -13,4 +13,12 @@
         <maven.compiler.target>13</maven.compiler.target>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.homeaway.devtools.jenkins</groupId>
+            <artifactId>jenkins-spock</artifactId>
+            <version>2.1.5</version>
+        </dependency>
+    </dependencies>
+
 </project>
